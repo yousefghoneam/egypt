@@ -1,0 +1,55 @@
+body{
+    background-color: #52e3f4;
+    font-family: "Helvetica",sans-serif;
+}
+h1{
+    color: #db7d10;
+    font-family: "Time New Roman",serif;
+}
+h2{
+    font-family: "Time New Roman",serif;
+
+}
+h3{
+    font-style: italic;
+}
+a{
+    color: slateblue;
+}
+nav ul {
+    background-color: #aa4fc8;
+    border-style: solid;
+    border-color: #52e3f4;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: PapayaWhip;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  table, th, td {
+    border: 1px solid HoneyDew;
+    border-collapse: collapse;
+  }
+  tr {
+    background-color: #db7d10;
+  }
+  th, td {
+    vertical-align: top;
+    padding: 5px;
+    text-align: left;
+  }
+  th {
+    color: purple;
+  }
+  td {
+    color: purple;
+  }
